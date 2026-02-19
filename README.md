@@ -1,3 +1,9 @@
+
+## Spire Systems Fork
+
+As the upstream project is currently inactive, this fork allows us to continue
+to maintain the package until it can be replaced.
+
 # PyFilesystem2
 
 Python's Filesystem abstraction layer.
